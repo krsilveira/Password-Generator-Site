@@ -43,6 +43,6 @@ THEN the password is either displayed in an alert or written to the page
 
 Deployed live links
 
-* The URL of the deployed application ()
+* The URL of the deployed application (https://krsilveira.github.io/Challenge-3-/)
 
-* The URL of the Github repository ()
+* The URL of the Github repository (https://github.com/krsilveira/Challenge-3-)
